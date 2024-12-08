@@ -1,1 +1,6 @@
+# Ignore obj and debug folders
+**/obj/
+**/bin/
+**/Debug/
+**/Release/
 
