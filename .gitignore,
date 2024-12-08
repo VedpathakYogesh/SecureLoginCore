@@ -1,6 +1,6 @@
-# Ignore obj and debug folders
+# Ignore Visual Studio files
+.vs/
 **/obj/
 **/bin/
 **/Debug/
 **/Release/
-
